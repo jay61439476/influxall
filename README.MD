@@ -1,6 +1,5 @@
 # 项目监控相关资料
 
-
 ## 文件列表
 ```
 ├── README.MD
@@ -12,7 +11,7 @@
 │   ├── install_influx.sh               # 自动安装脚本
 │   ├── kapacitor-1.5.2.x86_64.rpm
 │   └── telegraf-1.9.1-1.x86_64.rpm
-└── tomcat-jvm                          # tomcat  & jvm相关监控、安装文件                      
+└── tomcat-jvm                          # tomcat  & jvm相关监控、安装文件
     ├── jolokia                         # JXM to HTTP
     │   ├── jolokia-jvm-1.6.0-agent.jar 
     │   ├── jolokia-spring-1.6.0.jar
@@ -29,3 +28,8 @@
 
 7 directories, 16 files
 ```
+
+## 参考资料
+* [probe使用](https://cloud.tencent.com/developer/article/1376409)
+* [probe使用](https://cloud.tencent.com/developer/article/1339846)
+
