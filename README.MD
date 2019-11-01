@@ -33,3 +33,5 @@
 * [probe使用](https://cloud.tencent.com/developer/article/1376409)
 * [probe使用](https://cloud.tencent.com/developer/article/1339846)
 
+## 计划
+* 增加 prometheus 文档
